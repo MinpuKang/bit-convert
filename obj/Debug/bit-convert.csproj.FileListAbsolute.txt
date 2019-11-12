@@ -1,0 +1,9 @@
+C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\bit-convert\obj\Debug\bit_convert.Properties.Resources.resources
+C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\bit-convert\obj\Debug\bit-convert.csproj.GenerateResource.cache
+C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\bit-convert\obj\Debug\bit_convert.bc.resources
+C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\bit-convert\bin\Debug\BitC.exe.config
+C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\bit-convert\bin\Debug\BitC.exe
+C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\bit-convert\bin\Debug\BitC.pdb
+C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\bit-convert\obj\Debug\BitC.exe
+C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\bit-convert\obj\Debug\BitC.pdb
+C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\bit-convert\obj\Debug\bit_convert.About.resources
